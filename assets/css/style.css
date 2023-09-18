@@ -44,6 +44,8 @@ p {
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     font-size: 1.15rem;
     font-weight: 700;
+    position: sticky;
+    top: 0;
 }
 
 .nav-link {
@@ -62,32 +64,4 @@ p {
 .nav-link:hover {
     border-radius: 0.05rem 0.05rem 0.5rem 0.5rem;
     background: #2E9AD6;
-}
-
-/* Page specific css */
-
-/* About Me page */
-
-.work-ethics,
-.goals {
-    background: linear-gradient(180deg, #2E9AD6 0%, rgba(224, 185, 84, 0.00) 100%);
-}
-
-.outside-work,
-.career {
-    background: linear-gradient(180deg, rgba(224, 185, 84, 0.00) 0%, #2E9AD6 100%);
-}
-
-.page-info div p:last-child {
-    margin-bottom: 0;
-    padding-bottom: 0.5rem;
-}
-
-.page-info div p:first-child {
-    margin-top: 0;
-    padding-top: 0.5rem;
-}
-
-.page-info div {
-    border-bottom: 1px solid black;
 }

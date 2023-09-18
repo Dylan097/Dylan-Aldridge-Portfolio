@@ -10,6 +10,9 @@ My Portfolio website, showcasing what I can do and explaining a little bit about
     - [Outside Work](#outside-work)
     - [Goals](#goals)
     - [My Career](#my-career)
+- [Skills Page](#skills-page)
+    - [Languages](#languages)
+    - [Frameworks](#frameworks)
 - [Website Plans](#website-plans)
 --- 
 
@@ -55,11 +58,25 @@ I have explained in detail here what I've done in my career, and the tasks that 
 
 ---
 
+## skills page
+
+On the skills page, I've described what languages I've learnt, and the frameworks I have an understanding about.
+
+### Languages
+
+In this section, I've described what programming languages I've learnt, my confidence in them and if I'd like to improve my knowledge on them.
+
+### Frameworks
+
+In this section, I've described what frameworks I'm familiar with, my confidence in them, and, if I have a lack of confidence, what part of it I'm not so condident about so that I can work on improvements in the future.
+
+[Contents](#contents)
+
+---
+
 ## Website plans
 
-Now that I've completed work on the about me page, I plan on moving onto the skills page, where I'll display what programming languages I know, whether I have a basic understanding in them, or have a more advanced understanding of them. This section will also contain any frameworks I might have knowledge about, including bootstrap and django.
-
-Once I have completed the skills page, I then plan on working on my hobbies page. This will include any hobbies that I do. These aren't necessarily things that I do every week, but things I enjoy doing with my friends or on my own.
+Now that I've completed the skills page, I then plan on working on my hobbies page. This will include any hobbies that I do. These aren't necessarily things that I do every week, but things I enjoy doing with my friends or on my own.
 
 Once this has been complete, I will then work on optimising the page for desktop, which will have an almost completely different layout to the view I'm currently working on, which is the mobile view.
 

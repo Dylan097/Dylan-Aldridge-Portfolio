@@ -1,0 +1,26 @@
+.work-ethics,
+.goals,
+.second-job,
+.fourth-job {
+    background: linear-gradient(180deg, #2E9AD6 0%, rgba(224, 185, 84, 0.00) 100%);
+}
+
+.outside-work,
+.first-job,
+.third-job {
+    background: linear-gradient(180deg, rgba(224, 185, 84, 0.00) 0%, #2E9AD6 100%);
+}
+
+.page-info div p:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0.5rem;
+}
+
+.page-info div p:first-child {
+    margin-top: 0;
+    padding-top: 0.5rem;
+}
+
+.page-info div {
+    border-bottom: 1px solid black;
+}
