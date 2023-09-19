@@ -13,6 +13,7 @@ My Portfolio website, showcasing what I can do and explaining a little bit about
 - [Skills Page](#skills-page)
     - [Languages](#languages)
     - [Frameworks](#frameworks)
+- [Hobbies Page](#hobbies-page)
 - [Website Plans](#website-plans)
 --- 
 
@@ -74,11 +75,17 @@ In this section, I've described what frameworks I'm familiar with, my confidence
 
 ---
 
+## Hobbies page
+
+On the Hobbies Page, I've explained what I enjoy doing outside of work that I don't do weekly, but enjoy doing from time to time. These are things that, if given the opportunity, I would love to do more of than I currently do.
+
+[Contents](#contents)
+
+---
+
 ## Website plans
 
-Now that I've completed the skills page, I then plan on working on my hobbies page. This will include any hobbies that I do. These aren't necessarily things that I do every week, but things I enjoy doing with my friends or on my own.
-
-Once this has been complete, I will then work on optimising the page for desktop, which will have an almost completely different layout to the view I'm currently working on, which is the mobile view.
+Now that I've completed the hobbies page, I will work work on optimising the page for desktop, which will have an almost completely different layout to the mobile view.
 
 [Contents](#contents)
 
