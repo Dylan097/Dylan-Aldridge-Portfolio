@@ -16,6 +16,7 @@ My Portfolio website, showcasing what I can do and explaining a little bit about
 - [Hobbies Page](#hobbies-page)
 - [Mobile View](#mobile-view)
 - [Desktop View](#desktop-view)
+- [Deployment](#deployment)
 
 --- 
 
@@ -98,3 +99,24 @@ The mobile view of the website takes up the entire width of the screen. I made t
 The desktop view of the website has my name and contact info in full view whilst scrolling through the website on the left hand side of the website. As well as this, on the right hand side of the website, which takes up most of the screen size, I have put at the top of the screen what page the user is on in large letters. The navigation also stays within view of the page at all times, so that the pages can be navigated throughtout page viewing.
 
 [Contents](#contents)
+
+---
+
+## Deployment
+
+The deployment steps, as well as the link to the deployed website, are below:
+
+1. Open Dylan-Aldridge-Portfolio repository
+2. Go to the settings tab, found at the top
+3. Go to pages, found on the left sidebar
+4. When on this page, make sure to:
+    1. Have your source set to Deploy From Branch
+    2. Set branch to main
+    3. save
+5. Wait a couple of minutes for deployment, then come back to github pages to view deployed site
+
+The link for the deployed site, is [here](https://dylan097.github.io/Dylan-Aldridge-Portfolio/)
+
+[Contents](#contents)
+
+---
