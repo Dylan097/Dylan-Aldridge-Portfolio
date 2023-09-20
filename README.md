@@ -14,7 +14,9 @@ My Portfolio website, showcasing what I can do and explaining a little bit about
     - [Languages](#languages)
     - [Frameworks](#frameworks)
 - [Hobbies Page](#hobbies-page)
-- [Website Plans](#website-plans)
+- [Mobile View](#mobile-view)
+- [Desktop View](#desktop-view)
+
 --- 
 
 ## Title
@@ -83,10 +85,16 @@ On the Hobbies Page, I've explained what I enjoy doing outside of work that I do
 
 ---
 
-## Website plans
+## Mobile View
 
-Now that I've completed the hobbies page, I will work work on optimising the page for desktop, which will have an almost completely different layout to the mobile view.
+The mobile view of the website takes up the entire width of the screen. I made the decision to only have the nav bar shown on screen at all times in this view, so that the user can navigate through the pages at any point on each page, whilst still seeing as much info on screen as possible.
 
 [Contents](#contents)
 
 ---
+
+## Desktop View
+
+The desktop view of the website has my name and contact info in full view whilst scrolling through the website on the left hand side of the website. As well as this, on the right hand side of the website, which takes up most of the screen size, I have put at the top of the screen what page the user is on in large letters. The navigation also stays within view of the page at all times, so that the pages can be navigated throughtout page viewing.
+
+[Contents](#contents)

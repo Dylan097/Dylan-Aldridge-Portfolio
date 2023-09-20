@@ -19,4 +19,5 @@ h2 {
 .page-info p {
     margin: 0;
     padding-inline: 1.5rem;
+    border-bottom: 1px solid black;
 }
